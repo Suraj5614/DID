@@ -1,0 +1,32 @@
+{
+  "assertionMethod": [
+    "did:web:Suraj5614.github.io:DID:vc-local-ed25519#key-0"
+  ],
+  "service": [],
+  "id": "did:web:Suraj5614.github.io:DID:vc-local-ed25519",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkkuYh2uSNbfAC3ovihExmaZRzTFd2w1xaPAjGNDSPxTPF",
+      "controller": "did:web:Anil-kumar-Majji.github.io:DID:vc-local-ed25519",
+      "id": "did:web:Anil-kumar-Majji.github.io:DID:vc-local-ed25519#key-0",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:Anil-kumar-Majji.github.io:DID:vc-local-ed25519#key-0"
+  ]
+}
+
+
+
+
+
+
+
+
+
