@@ -6,7 +6,7 @@
   "id": "did:web:Suraj5614.github.io:DID:vc-local-ed25519",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkgbBNzsdhy3DTh3YnXJvTuurJZzVZLAH7fsDrtzP2X6Te",
+      "publicKeyMultibase": "z6Mkv3uUM2SRzhps8hxzToe7zQ2TDorWgS62tRnuY9wEk51L",
       "controller": "did:web:Suraj5614.github.io:DID:vc-local-ed25519",
       "id": "did:web:Suraj5614.github.io:DID:vc-local-ed25519#key-0",
       "type": "Ed25519VerificationKey2020",
